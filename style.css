@@ -44,7 +44,7 @@ header {
 }
 h1 {
   text-align: center;
-  color: black;
+  color: rgb(3, 3, 3);
   border: 5px solid white;
   border-radius: 25px;
   font-size: 48px;
